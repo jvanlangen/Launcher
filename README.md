@@ -6,7 +6,7 @@ You can add any shortcut to the menu.
 - to a folder
 - to a website
 
-![image](https://github.com/jvanlangen/Launcher/assets/1532756/20e6b88c-1bb1-4b16-be8e-a217c2e84a88)
+![image](https://github.com/jvanlangen/Launcher/assets/1532756/3a997914-f7bf-4d50-8d93-d7db707a269a)
 
 Filter items and use keyboard navigation to select and execute a shortcut:
 

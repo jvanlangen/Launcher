@@ -64,11 +64,6 @@
     </Compile>
     <Compile Include="KeyboardHook.cs" />
     <Compile Include="KeyPressedEventArgs.cs" />
-    <Compile Include="LauncherSettings.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTimeSharedInput>True</DesignTimeSharedInput>
-      <DependentUpon>LauncherSettings.settings</DependentUpon>
-    </Compile>
     <Compile Include="ListBoxNF.cs">
       <SubType>Component</SubType>
     </Compile>
@@ -78,6 +73,9 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ShurtcutInfo.cs" />
+    <EmbeddedResource Include="FormAbout.resx">
+      <DependentUpon>FormAbout.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -86,11 +84,9 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
-    <None Include="LauncherSettings.settings">
-      <Generator>SettingsSingleFileGenerator</Generator>
-      <LastGenOutput>LauncherSettings.Designer.cs</LastGenOutput>
-    </None>
+    <EmbeddedResource Include="Notepad.lnk" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -117,6 +113,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="LauncherIcon.ico" />
+    <None Include="LauncherKeys.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

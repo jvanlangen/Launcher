@@ -6,4 +6,8 @@ You can add any shortcut to the menu.
 - to a folder
 - to a website
 
-![image](https://github.com/jvanlangen/Launcher/assets/1532756/1a64ed46-9714-4847-a29a-fb99fe672c18)
+![image](https://github.com/jvanlangen/Launcher/assets/1532756/20e6b88c-1bb1-4b16-be8e-a217c2e84a88)
+
+Filter items and use keyboard navigation to select and execute a shortcut:
+
+![image](https://github.com/jvanlangen/Launcher/assets/1532756/e4bd3693-6bd0-4b3d-86c1-24d19b8cc7b4)

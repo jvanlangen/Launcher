@@ -1,5 +1,5 @@
 # Launcher
-Quick launch programs with keyboard ![image](https://github.com/jvanlangen/Launcher/assets/1532756/fbf3ab1d-8916-44e8-84c5-2e8aa8a3aa60)
+Quick launch programs with keyboard <kbd>![Windows Key][oldwinlogo]</kbd> + <kbd>`</kbd>
 . Faster than the windows start menu.
 
 You can add any shortcut to the menu.
